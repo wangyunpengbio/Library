@@ -1,6 +1,6 @@
 # 图书管理系统
 
-设计人：王云鹏
+设计人：wangyunpeng_bio
 
 ## 项目需求 ##
 随着计算机的普及和应用水平的提高，经过考察比较，决定利用自己的Java知识开发小型的图书管理系统，方便图书的管理。
@@ -16,8 +16,9 @@
 ## 需求分析 ##
 
 ### A.业务流程： ###
+
 No.|业务流程|需求
-- | :-: | -: 
+--- |---|---
 1.|图书管理员登入系统|图书管理员需使用账号和密码登入。
 2.|新增读者资料|新增读者资料，如姓名、性别、职位等。
 3.|新增书籍资料|新增书籍资料，如书名、价格、种类等。
@@ -34,7 +35,7 @@ No.|业务流程|需求
 ### B.归纳实体和属性 ###
 
 No.|业务流程|对应的实体|实体的属性值
-- | :-: |:-:|-:|
+---|---|---|---
 1.|图书管理员登入系统|Librarian|nameUser password
 2.|新增读者资料|Reader|idReader nameReader kind sex password
 3.|新增书籍资料|Book Author Publisher|idBook,nameBook,price,kind,author,publisher Author.name, Author.workplace Publisher.name, Publisher.address
