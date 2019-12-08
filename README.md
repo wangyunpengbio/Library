@@ -53,11 +53,11 @@ No.|业务流程|对应的实体|实体的属性值
 
 
 ### C.实体的模型 ###
-![实体的模型](https://i.imgur.com/JIJH9tQ.jpg)
+![实体的模型](https://github.com/wangyunpengbio/Library/raw/master/readme_imgs/1.jpg)
 
 ### D.ER-实体关系 ###
 Author,Publisher To Book&Borrow&Reader To Librarian
-![实体的联系](https://i.imgur.com/pEk2Ezb.jpg)
+![实体的联系](https://github.com/wangyunpengbio/Library/raw/master/readme_imgs/1.jpg)
 
 ## 设计 ##
 项目文件夹中，（代码总计：4800+行）
@@ -96,4 +96,4 @@ http://dlsw.baidu.com/sw-search-sp/soft/6c/17997/MySQL-Front_V5.3.4.214_Setup.14
 awt 和 swing 都依赖虚拟机的具体实现。所以不同平台表现不大一样。如果用javafx，界面才可以移植。
 而且编写用的笔记本电脑是高分屏，在本机上显示大小是正好的，到别的电脑上面有可能会出现界面过大的情况。
 6. 具体的文档注释已经生成，打开doc文件夹其中的index文件查看整个项目的注释
-![运行效果图](https://i.imgur.com/rZF0pXM.png)
+![运行效果图](https://github.com/wangyunpengbio/Library/raw/master/readme_imgs/3.png)
