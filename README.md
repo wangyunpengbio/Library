@@ -97,3 +97,4 @@ awt 和 swing 都依赖虚拟机的具体实现。所以不同平台表现不大
 而且编写用的笔记本电脑是高分屏，在本机上显示大小是正好的，到别的电脑上面有可能会出现界面过大的情况。
 6. 具体的文档注释已经生成，打开doc文件夹其中的index文件查看整个项目的注释
 ![运行效果图](https://github.com/wangyunpengbio/Library/raw/master/readme_imgs/3.png)
+Try to write in English as most of the people understand that language very well.
